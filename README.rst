@@ -1,7 +1,7 @@
 SpinPy
 ======
 
-SpinPy is a Python framework for conveniently handling quantum-chemical calculations and the post-processing of the acquired data.
+SpinPy is a Python framework for simulating EPR data.
 
 For more general information on SpinPy see its `homepage <https://www.spinpy.de/>`_.
 
